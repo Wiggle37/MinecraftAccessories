@@ -1,0 +1,13 @@
+name: MinecraftAccessories
+version: '${project.version}'
+main: me.wiggle.MinecraftAccessories.Plugin.MinecraftAccessories
+api-version: 1.18
+authors: [ Wiggle ]
+description: A collection of different features to make your minecraft server better
+
+commands:
+  inventory:
+    description: Check yours or someone elses inventory
+
+  position:
+    description: Check yours or someone elses postition
